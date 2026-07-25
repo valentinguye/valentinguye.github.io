@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Valentin
 last_name: Guye
 contact_note: >
-  Pronounce as gi in github
+  Guye is pronounced like Gi in Github
   He/him
   valentin.guye@inrae.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
