@@ -1,7 +1,9 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /about/
+nav: true
+nav_order: 1
 subtitle: >
   Research fellow, INRAE — <a href='https://www.cee-m.fr/fr/'>Center for Environmental Economics -- Montpellier (CEE-M)</a>
 
