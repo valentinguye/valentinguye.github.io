@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Chargé(e) de recherche, INRAE — <a href='https://www.cee-m.fr/fr/'>Centre d'Economie de l'Environnement de Montpellier (CEE-M)</a>
+  Research fellow, INRAE — <a href='https://www.cee-m.fr/fr/'>Center for Environmental Economics -- Montpellier (CEE-M)</a>
 
 profile:
   align: right
