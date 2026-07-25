@@ -13,8 +13,8 @@ profile:
     <p>CEE-M</p>
     <p>Montpellier, France</p>
 
-news: true
-selected_papers: true
+news: false
+selected_papers: false
 social: true
 ---
 
