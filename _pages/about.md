@@ -18,6 +18,6 @@ selected_papers: true
 social: true
 ---
 
-Je suis chargé(e) de recherche titulaire à l'INRAE (Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement), rattaché(e) au [Centre d'Economie de l'Environnement de Montpellier (CEE-M)](https://www.cee-m.fr/fr/).
+I am a researcher at INRAE, the French institute for research in agriculture, food and environment, working at the Center for Environmental Economics of Montpellier [(CEE-M)](https://www.cee-m.fr/fr/).
 
-[Décrivez ici vos thématiques de recherche en 2-3 phrases — ex. déforestation, chaînes d'approvisionnement agricoles, politiques de régulation environnementale.]
+I do applied research on the economics of using land resources sustainably. I study supply chains and due diligence regulation and tropical deforestation. trade policy and .  
