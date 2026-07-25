@@ -14,7 +14,7 @@ nav_order: 5
 
 ### Peer review
 
-**2026** — IPBES Business and Biodiversity Assessment (SPM); Environmental and Resource Economics; PNAS
+**2026** — Environmental and Resource Economics; PNAS; IPBES Business and Biodiversity Assessment (SPM)
 **2025** — Environmental and Resource Economics
 **2024** — Earth's Future
 **2023** — Agricultural and Food Economics; Ecological Economics; Cogent Economics and Finance; Cogent Social Sciences
