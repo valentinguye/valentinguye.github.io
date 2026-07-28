@@ -4,7 +4,6 @@ title: about
 permalink: /about/
 nav: true
 nav_order: 1
-subtitle: > test
 profile:
   align: right
   image: prof_pic.jpg
