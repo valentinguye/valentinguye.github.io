@@ -5,15 +5,14 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Valentin
 last_name: Guye
-contact_note: >
-  Guye is pronounced like Gi in Github
-  He/him
-  valentin.guye@inrae.fr
+contact_note: 
+  Guye is pronounced like Gi in Github.
+  My pronouns are he/him.
 # description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords:  # add your own keywords or leave empty
+keywords:  agriculture, commodities, trade, due diligence, regulation, EUDR, deforestation, cocoa, palm oil, supply chain, ILUC, biofuel, EUDR # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -246,8 +245,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Guye]
+  first_name: [Valentin]
 
   style: apa
   locale: en
@@ -310,8 +309,8 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
-more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
+max_author_limit: 9 # leave blank to always show all authors
+more_authors_animation_delay: 50 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
 enable_publication_thumbnails: true
