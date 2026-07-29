@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ongoing research
-permalink: /ongoing-research/
+title: Ongoing research
+permalink: /Ongoing-research/
 nav: true
 nav_order: 4
 ---
@@ -14,19 +14,23 @@ with F. Cammelli, K. Krumbiegel, I. McCallum, S. Fritz, E. zu Ermgassen, P. Meyf
 **Cocoa expansion displaces food crops into protected forests, but sustainability programmes reduce 
 loss** 
 led by Thomas Addoah, with W. J. Blaser Hart, R. Garrett, P. Meyfroidt, C. Renier
-Accepted, Communications Earth & Environment
+Accepted, _Communications Earth & Environment_
 
 **Does deforestation influence beef retail prices in Brazil?**
 led by Tereza Da Silva, with F. Cammelli, A. Martins de Carvalho, A. Garcia, D. Moran, R. de Oliveira Silva 
 E. zu Ermgassen 
-Conditionally accepted, The Lancet Planetary Health 
+Conditionally accepted, _The Lancet Planetary Health_
 
 **Are smallholders a common good for buyers with power? Evidence from Indonesian palm oil and 
 implication for deforestation** 
 with L. Crepin, J. Gignoux, J. Hélie & A. Suwa-Eisenmann
 
 **Sustainable Relationships**
-with D. Del Prete and E. Tolva
+with D. Del Prete and E. Tolva. 
+Submitted.
+
+
+
 
 ### Work in progress
 **First effects of regulating imported deforestation: evidence from South America and Southeast Asia**
