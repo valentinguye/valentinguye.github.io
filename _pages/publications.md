@@ -17,6 +17,10 @@ If you cannot access papers, code or data, do not hesitate to reach out, I am ha
 {% bibliography --file datasets %}
 
 <style>
+  .title {
+  font-weight: bold;
+}
+  
   /* Image à droite au lieu de gauche */
 
 .row > .col.abbr {
