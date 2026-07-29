@@ -13,7 +13,8 @@ scholar_userid: https://scholar.google.fr/citations?user=cuEt1n0AAAAJ&hl=fr # yo
  # title: Custom Social
  # url: https://www.alberteinstein.com/
 custom_social:
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/valentin-guye-b8558611b/
+  linkedin:
     logo: assets/img/icons8-linkedin-52.png
+    title: LinkedIn
+    url: https://www.linkedin.com/in/valentin-guye-b8558611b/
  # researchgate: https://www.researchgate.net/profile/Valentin-Guye-2
