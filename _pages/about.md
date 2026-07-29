@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
-  more_info: >
+  more_info: > 
 
 news: false
 selected_papers: false
