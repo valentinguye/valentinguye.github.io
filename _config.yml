@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: <h1>Valentin Guye<h1> # the website title (if blank, full name will be used instead)
+title: Valentin Guye # the website title (if blank, full name will be used instead)
 first_name: Valentin
-last_name: <h1>Guye<h1>
+last_name: Guye
 contact_note: 
-  <h1>Guye<h1> is pronounced like Gi in Github.
+  Guye is pronounced like Gi in Github.
   My pronouns are he/him.
 # description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: <h1>Valentin Guye<h1>, <h2>econ<h2>, agriculture, commodities, trade, due diligence, regulation, EUDR, deforestation, cocoa, palm oil, supply chain, ILUC, biofuel, EUDR # add your own keywords or leave empty
+keywords: Valentin Guye, econ, agriculture, commodities, trade, due diligence, regulation, EUDR, deforestation, cocoa, palm oil, supply chain, ILUC, biofuel, EUDR # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌍 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
