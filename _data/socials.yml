@@ -12,5 +12,8 @@ scholar_userid: https://scholar.google.fr/citations?user=cuEt1n0AAAAJ&hl=fr # yo
  # logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
  # title: Custom Social
  # url: https://www.alberteinstein.com/
-LinkedIn: https://www.linkedin.com/in/valentin-guye-b8558611b/
-# researchgate: https://www.researchgate.net/profile/Valentin-Guye-2
+custom_social:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/valentin-guye-b8558611b/
+    icon: fa-brands fa-linkedin
+ # researchgate: https://www.researchgate.net/profile/Valentin-Guye-2
