@@ -15,5 +15,5 @@ scholar_userid: https://scholar.google.fr/citations?user=cuEt1n0AAAAJ&hl=fr # yo
 custom_social:
   - name: LinkedIn
     url: https://www.linkedin.com/in/valentin-guye-b8558611b/
-    icon: fa-brands fa-linkedin
+    logo: assets/img/icons8-linkedin-52.png
  # researchgate: https://www.researchgate.net/profile/Valentin-Guye-2
