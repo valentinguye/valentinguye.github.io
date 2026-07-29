@@ -8,6 +8,8 @@ nav_order: 5
 
 I am happy to consider new advisory activities, do not hesitate to reach out. 
 
+
+
 ### Inputs to press & NGOs
 **2026, 2024, 2023** — [Chocolate Scorecard](https://www.chocolatescorecard.com/), Traceability & Transparency scoring
 
@@ -19,6 +21,7 @@ I am happy to consider new advisory activities, do not hesitate to reach out.
 ### Supervised master theses
 
 **2024–25** — Cyril d'Hont, Master thesis, UCLouvain (co-supervision)
+
 **2023** — Robert Teiko, Master thesis, University of Sussex (co-supervision)
 
 
@@ -29,4 +32,4 @@ I am happy to consider new advisory activities, do not hesitate to reach out.
 **2024** — Earth's Future
 **2023** — Agricultural and Food Economics; Ecological Economics; Cogent Economics and Finance; Cogent Social Sciences
 
-Increasingly, I consider declining to peer-review for commercial publishers. 
+Increasingly, I consider declining peer-reviewing for commercial publishers. 
