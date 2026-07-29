@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://valentinguye.github.io/sitemap.xml
+Sitemap: https://valentinguye.github.iohttps://valentinguye.github.io/about//sitemap.xml
