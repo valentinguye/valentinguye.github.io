@@ -19,6 +19,7 @@ If you cannot access papers, code or data, do not hesitate to reach out, I am ha
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   document.querySelectorAll('a.abstract.btn').forEach(function (btn) {
+    btn.textContent = 'abstract';
     btn.addEventListener('click', function (e) {
       e.preventDefault();
       var container = btn.closest('[id]') || btn.parentElement;
@@ -28,6 +29,12 @@ document.addEventListener('DOMContentLoaded', function () {
         abs.classList.toggle('hidden');
       }
     });
+  });
+
+  document.querySelectorAll('.links a.btn').forEach(function (btn) {
+    if (btn.textContent.trim() === 'HTML') {
+      btn.textContent = 'link';
+    }
   });
 });
 </script>
