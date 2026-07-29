@@ -14,7 +14,7 @@ If you cannot access papers, code or data, do not hesitate to reach out, I am ha
 {% bibliography --file policy-briefs %}
 
 <h2 class="pub-section">Datasets</h2>
-{% bibliography --file datasets %}
+{% bibliography --file datasets --group_by none %}
 
 <style>
   .title {
