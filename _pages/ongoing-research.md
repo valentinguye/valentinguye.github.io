@@ -30,7 +30,7 @@ Submitted
 
 **A theory of change of supply chain transparency for sustainability**
 P. Meyfroidt, R. Heilmayr Robert, E. zu Ermgassen, M. Persson, M. Bastos Lima, T. Gardner, V. Guye, M. Lathuilliere
-Submitted
+Submitted. [Preprint](https://zenodo.org/records/21290522)
 
 
 
