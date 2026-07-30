@@ -9,26 +9,28 @@ nav_order: 4
 ### Working papers
 
 **The supply sheds of cocoa cooperatives in Côte d’Ivoire**
-with F. Cammelli, K. Krumbiegel, I. McCallum, S. Fritz, E. zu Ermgassen, P. Meyfroidt
+V. Guye, F. Cammelli, K. Krumbiegel, I. McCallum, S. Fritz, E. zu Ermgassen, P. Meyfroidt
 
 **Cocoa expansion displaces food crops into protected forests, but sustainability programmes reduce 
 loss** 
-led by Thomas Addoah, with W. J. Blaser Hart, R. Garrett, P. Meyfroidt, C. Renier
+Thomas Addoah, W. J. Blaser Hart, R. Garrett, V. Guye, P. Meyfroidt, C. Renier
 Accepted, _Communications Earth & Environment_
 
 **Does deforestation influence beef retail prices in Brazil?**
-led by Tereza Da Silva, with F. Cammelli, A. Martins de Carvalho, A. Garcia, D. Moran, R. de Oliveira Silva 
-E. zu Ermgassen 
+J. Tereza Da Silva, V. Guye, F. Cammelli, A. Martins de Carvalho, A. Garcia, D. Moran, R. de Oliveira Silva, E. zu Ermgassen 
 Conditionally accepted, _The Lancet Planetary Health_
 
 **Are smallholders a common good for buyers with power? Evidence from Indonesian palm oil and 
 implication for deforestation** 
-with L. Crepin, J. Gignoux, J. Hélie & A. Suwa-Eisenmann
+L. Crepin, J. Gignoux, V. Guye, J. Hélie, A. Suwa-Eisenmann
 
 **Sustainable Relationships**
-with D. Del Prete and E. Tolva. 
-Submitted.
+D. Del Prete, V. Guye, E. Tolva. 
+Submitted
 
+**A theory of change of supply chain transparency for sustainability**
+P. Meyfroidt, R. Heilmayr Robert, E. zu Ermgassen, M. Persson, M. Bastos Lima, T. Gardner, V. Guye, M. Lathuilliere
+Submitted
 
 
 
