@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Valentin Guye # the website title (if blank, full name will be used instead)
-first_name: Valentin
+title: <b>Valentin<b> Guye # the website title (if blank, full name will be used instead)
+first_name: <b>Valentin<b>
 last_name: Guye
 contact_note: 
   Guye is pronounced like Gi in Github.
