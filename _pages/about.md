@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About
-permalink: /About/
+title: Valentin Guye — Economist Researcher INRAE
+permalink: /
 nav: true
 nav_order: 1
 profile:
