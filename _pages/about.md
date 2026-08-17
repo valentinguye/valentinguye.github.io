@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Valentin Guye — Economist Researcher INRAE
+title: Valentin Guye
 permalink: /
 nav: true
 nav_order: 1
