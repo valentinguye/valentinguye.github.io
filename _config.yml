@@ -3,8 +3,17 @@
 # -----------------------------------------------------------------------------
 
 title: Valentin Guye # the website title (if blank, full name will be used instead)
-first_name: <b>Valentin<b>
+first_name: Valentin
 last_name: Guye
+url: "https://valentinguye.github.io"
+position: Economist Researcher
+affiliation: INRAE
+scholar_userid: cuEt1n0AAAAJ
+linkedin_username: valentin-guye-b8558611b
+research_gate_profile: Valentin-Guye-2
+bluesky_username: valentinguye.bsky.social
+github_username: valentinguye
+
 contact_note: 
   Guye is pronounced like Gi in Github.
   My pronouns are he/him.
@@ -12,7 +21,7 @@ contact_note:
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Valentin Guye, econ, agriculture, commodities, trade, due diligence, regulation, EUDR, deforestation, cocoa, palm oil, supply chain, ILUC, biofuel, EUDR # add your own keywords or leave empty
+keywords: Valentin Guye, INRAE, econ, agriculture, commodities, trade, due diligence, regulation, EUDR, deforestation, cocoa, palm oil, supply chain, ILUC, biofuel, EUDR # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌍 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -97,7 +106,7 @@ max_width: 930px
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
