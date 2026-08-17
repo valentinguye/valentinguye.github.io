@@ -9,13 +9,13 @@ nav_order: 5
 I am happy to consider new advisory activities, do not hesitate to reach out. 
 
 
+### Consulting
+[Chocolate Scorecard](https://www.chocolatescorecard.com/), Traceability & Transparency scoring, 2026, 2024, 2023
 
 ### Inputs to press & NGOs
-**2026, 2024, 2023** — [Chocolate Scorecard](https://www.chocolatescorecard.com/), Traceability & Transparency scoring
+I have shared quantitative and qualitative insights for the following organisations: 
 
-**2025** — [NRC.nl](https://www.nrc.nl/nieuws/2025/09/19/...), [AidEnvironment](https://aidenvironment.org/wp-content/uploads/2025/12/Compliance-Checker_Mondelez_Profile_By-AidEnvironment.pdf)
-
-**2024** — [Bloomberg](https://www.bloomberg.com/news/features/2024-02-27/...), Nitidae, Mongabay, RTBF
+[NRC.nl](https://www.nrc.nl/nieuws/2025/09/19/...), [AidEnvironment](https://aidenvironment.org/wp-content/uploads/2025/12/Compliance-Checker_Mondelez_Profile_By-AidEnvironment.pdf), [Bloomberg](https://www.bloomberg.com/news/features/2024-02-27/...), Nitidae, Mongabay, RTBF
 
 
 ### Supervised master theses
