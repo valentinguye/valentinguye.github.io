@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Valentin Guye
-permalink: /About/
+permalink: /
 nav: true
 nav_order: 1
 profile:
