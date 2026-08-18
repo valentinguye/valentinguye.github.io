@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Valentin Guye
+title: About
 permalink: /
 nav: true
 nav_order: 1
