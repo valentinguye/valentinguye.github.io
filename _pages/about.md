@@ -25,3 +25,5 @@ I am a research fellow of France's Institute for Research in Agriculture, food a
 Before, I worked at [MCC Berlin](https://www.pik-potsdam.de/en/institute/departments/climate-economics-and-policy), [Paris Saclay Applied Economics](https://psae-saclay.fr/), the [Land Systems for Sustainability Lab](https://landsystems-lab.earth/), and [Trase](https://trase.earth/). I obtained my PhD in 2022, in economics from Université Paris-Saclay, and in geography from Humboldt Universität zu Berlin. 
 
 You can find my CV [here](https://nextcloud.inrae.fr/s/XemKaQNcQogrXF5). 
+
+{% include nav-dedupe.html %}
