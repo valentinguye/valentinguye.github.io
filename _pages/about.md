@@ -2,6 +2,9 @@
 layout: about
 title: About
 permalink: /
+description: >
+  Valentin Guye is a research fellow at INRAE (CEE-M), working on the economics
+  of tropical agriculture, supply chains, and due diligence regulation. TEST
 nav: true
 nav_order: 1
 profile:
