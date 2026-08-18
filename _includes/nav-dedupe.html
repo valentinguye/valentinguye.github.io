@@ -1,0 +1,15 @@
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var seen = new Set();
+  document.querySelectorAll('#navbarNav .nav-item').forEach(function (li) {
+    var link = li.querySelector('a.nav-link');
+    if (!link) return;
+    var label = link.textContent.trim().replace(/\(current\)/i, '').trim();
+    if (seen.has(label)) {
+      li.remove();
+    } else {
+      seen.add(label);
+    }
+  });
+});
+</script>
