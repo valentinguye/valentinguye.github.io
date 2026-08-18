@@ -33,3 +33,5 @@ I have shared quantitative and qualitative insights for the following organisati
 **2023** — Agricultural and Food Economics; Ecological Economics; Cogent Economics and Finance; Cogent Social Sciences
 
 Increasingly, I consider declining peer-reviewing for commercial publishers. 
+
+{% include nav-dedupe.html %}
