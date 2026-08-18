@@ -5,6 +5,13 @@
 title: Valentin Guye # the website title (if blank, full name will be used instead)
 first_name: Valentin
 last_name: Guye
+position: Economist Researcher
+affiliation: INRAE
+scholar_userid: cuEt1n0AAAAJ
+linkedin_username: valentin-guye-b8558611b
+research_gate_profile: Valentin-Guye-2
+bluesky_username: valentinguye.bsky.social
+github_username: valentinguye
 
 contact_note: 
   Guye is pronounced like Gi in Github.
@@ -98,7 +105,7 @@ max_width: 930px
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
