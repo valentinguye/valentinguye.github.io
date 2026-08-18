@@ -74,6 +74,20 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 });
+</script> <script>
+document.addEventListener('DOMContentLoaded', function () {
+  var seen = new Set();
+  document.querySelectorAll('#navbarNav .nav-item').forEach(function (li) {
+    var link = li.querySelector('a.nav-link');
+    if (!link) return;
+    var label = link.textContent.trim().replace(/\(current\)/i, '').trim();
+    if (seen.has(label)) {
+      li.remove();
+    } else {
+      seen.add(label);
+    }
+  });
+});
 </script> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Valentin Guye. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> <script>
   window.alFolio = {
     compatBootstrap: false
