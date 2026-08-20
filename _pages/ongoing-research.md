@@ -41,7 +41,7 @@ Submitted. [Preprint](https://zenodo.org/records/21290522)
  
 **Conditions for a Brussels effect on tropical deforestation: examination of global supply chains**
 
-**Extractive pathways: oil palm and mining in Indonesia**
+**Transitions of extractive clusters: evidence from oil palm and mining in Indonesia**
 
 **Selection, additionality and spillovers of cocoa sustainable sourcing initiatives**
 
