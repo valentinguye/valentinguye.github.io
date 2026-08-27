@@ -50,7 +50,7 @@ If you cannot access papers, code or data, do not hesitate to reach out, I am ha
 }
 
   .links a.btn {
-  font-size: 3rem;      /* taille du texte — ajustez selon votre goût (par défaut souvent ~0.8rem) */
+  font-size: 1rem;      /* taille du texte — ajustez selon votre goût (par défaut souvent ~0.8rem) */
 }
   
 </style>
