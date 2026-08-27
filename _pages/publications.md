@@ -48,6 +48,11 @@ If you cannot access papers, code or data, do not hesitate to reach out, I am ha
 .row {
   margin-bottom: 1.5rem;
 }
+
+  .links a.btn {
+  font-size: 1rem;      /* taille du texte — ajustez selon votre goût (par défaut souvent ~0.8rem) */
+}
+  
 </style>
 
 <script>
