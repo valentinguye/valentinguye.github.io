@@ -1,0 +1,33 @@
+<script>
+(function () {
+  // Définissez ici l'ordre de navigation entre vos pages
+  var pageOrder = [
+    '/',
+    '/Publications/',
+    '/ongoing-research/',
+    '/Advisory%20work/'
+  ];
+
+  var currentPath = window.location.pathname;
+  var currentIndex = pageOrder.indexOf(currentPath);
+  if (currentIndex === -1) return; // page pas dans la liste, on ne fait rien
+
+  var cooldown = false;
+  var threshold = 60; // sensibilité : pixels de "trop-scroll" nécessaires pour déclencher
+
+  window.addEventListener('wheel', function (e) {
+    if (cooldown) return;
+
+    var atBottom = (window.innerHeight + window.scrollY) >= (document.body.scrollHeight - 5);
+    var atTop = window.scrollY <= 5;
+
+    if (atBottom && e.deltaY > threshold && currentIndex < pageOrder.length - 1) {
+      cooldown = true;
+      window.location.href = pageOrder[currentIndex + 1];
+    } else if (atTop && e.deltaY < -threshold && currentIndex > 0) {
+      cooldown = true;
+      window.location.href = pageOrder[currentIndex - 1];
+    }
+  }, { passive: true });
+})();
+</script>
