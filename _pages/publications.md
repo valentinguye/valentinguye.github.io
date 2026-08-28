@@ -86,8 +86,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (typeof mediumZoom === 'function') {
       mediumZoom('[data-zoomable]').detach();
       mediumZoom('[data-zoomable]', {
-        margin: 80,       // espace (en px) laissé libre sur tous les côtés, y compris sous les bandeaux fixes
-        background: 'rgba(0, 0, 0, 0.85)'
+        margin: 150       // espace (en px) laissé libre sur tous les côtés, y compris sous les bandeaux fixes
       });
     }
   }, 300);
