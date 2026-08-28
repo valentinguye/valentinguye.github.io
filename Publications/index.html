@@ -81,14 +81,17 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 </script> <script>
 // Ajuster la taille des images de preview pour qu'elles ne soient pas recouvertes par les bandeaux de page. 
-window.addEventListener('load', function () {
-  if (typeof mediumZoom === 'function') {
-    mediumZoom('[data-zoomable]').detach();
-    mediumZoom('[data-zoomable]', {
-      margin: 80
-    });
-  }
-});
+(function () {
+  var pubImages = document.querySelectorAll('.abbr img.preview[data-zoomable]');
+  pubImages.forEach(function (img) {
+    img.removeAttribute('data-zoomable');
+  });
+  window.addEventListener('load', function () {
+    if (typeof mediumZoom === 'function') {
+      mediumZoom(pubImages, { margin: 80 });
+    }
+  });
+})();
 </script> <script>
 document.addEventListener('DOMContentLoaded', function () {
   var seen = new Set();
