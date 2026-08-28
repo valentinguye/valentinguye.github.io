@@ -95,3 +95,4 @@ document.addEventListener('DOMContentLoaded', function () {
 </script>
 
 {% include nav-dedupe.html %}
+{% include scroll-nav.html %}
