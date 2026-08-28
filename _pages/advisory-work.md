@@ -35,3 +35,4 @@ I have shared quantitative and qualitative insights for the following organisati
 Increasingly, I consider declining peer-reviewing for commercial publishers. 
 
 {% include nav-dedupe.html %}
+{% include scroll-nav.html %}
