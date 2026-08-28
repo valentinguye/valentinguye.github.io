@@ -78,4 +78,20 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 </script>
 
+<script>
+// Ajuster la taille des images de preview pour qu'elles ne soient pas recouvertes par les bandeaux de page. 
+  document.addEventListener('DOMContentLoaded', function () {
+  // Attendre que le script du thème ait initialisé medium-zoom sur les images
+  setTimeout(function () {
+    if (typeof mediumZoom === 'function') {
+      mediumZoom('[data-zoomable]').detach();
+      mediumZoom('[data-zoomable]', {
+        margin: 80,       // espace (en px) laissé libre sur tous les côtés, y compris sous les bandeaux fixes
+        background: 'rgba(0, 0, 0, 0.85)'
+      });
+    }
+  }, 300);
+});
+</script>
+
 {% include nav-dedupe.html %}
