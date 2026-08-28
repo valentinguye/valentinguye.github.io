@@ -4,7 +4,7 @@
   var pageOrder = [
     '/',
     '/Publications/',
-    '/ongoing-research/',
+    '/Ongoing research/',
     '/Advisory%20work/'
   ];
 
@@ -13,7 +13,7 @@
   if (currentIndex === -1) return; // page pas dans la liste, on ne fait rien
 
   var cooldown = false;
-  var threshold = 60; // sensibilité : pixels de "trop-scroll" nécessaires pour déclencher
+  var threshold = 30; // sensibilité : pixels de "trop-scroll" nécessaires pour déclencher
 
   window.addEventListener('wheel', function (e) {
     if (cooldown) return;
