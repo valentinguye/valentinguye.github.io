@@ -87,7 +87,8 @@ document.addEventListener('DOMContentLoaded', function () {
   });
   window.addEventListener('load', function () {
     if (typeof mediumZoom === 'function') {
-      mediumZoom(pubImages, { margin: 80 });
+      mediumZoom(pubImages, { margin: 80, 
+                              background: 'rgba(0, 0, 0, 0.5)' });
     }
   });
 })();
