@@ -12,11 +12,6 @@ nav_order: 4
 V. Guye, F. Cammelli, K. Krumbiegel, I. McCallum, S. Fritz, E. zu Ermgassen, P. Meyfroidt
 
 
-**Does deforestation influence beef retail prices in Brazil?**  
-J. Tereza Da Silva, V. Guye, F. Cammelli, A. Martins de Carvalho, A. Garcia, D. Moran, R. de Oliveira Silva, E. zu Ermgassen  
-Accepted, _The Lancet Planetary Health_
-
-
 **Are smallholders a common good for buyers with power? Evidence from Indonesian palm oil and implication for deforestation**  
 L. Crepin, J. Gignoux, V. Guye, J. Hélie, A. Suwa-Eisenmann
 
@@ -36,6 +31,8 @@ Submitted. [Preprint](https://zenodo.org/records/21290522)
 **First effects of regulating imported deforestation: evidence from South America and Southeast Asia**
  
 **Conditions for a Brussels effect on tropical deforestation: examination of global supply chains**
+
+**EUDR compliance likelihood across Indonesian Kecamatan** 
 
 **Transitions of extractive clusters: evidence from oil palm and mining in Indonesia**
 
