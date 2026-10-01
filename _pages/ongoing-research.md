@@ -28,7 +28,7 @@ Submitted. [Preprint](https://zenodo.org/records/21290522)
 
 
 ### Work in progress
-**First effects of banning imported deforestation: evidence from South America and Southeast Asia**
+**Imported deforestation ban: first effects on land use decisions in South America and Southeast Asia**
  
 **Conditions for a Brussels effect on tropical deforestation: examination of global supply chains**
 
