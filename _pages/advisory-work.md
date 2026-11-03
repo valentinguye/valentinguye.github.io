@@ -27,12 +27,12 @@ I have shared quantitative and qualitative insights with the following organisat
 
 ### Peer review
 
-**2026** — Environmental and Resource Economics; PNAS; IPBES Business and Biodiversity Assessment (SPM);
+**2026** — World Development; Environmental and Resource Economics; PNAS; IPBES Business and Biodiversity Assessment (SPM);
 **2025** — Environmental and Resource Economics;
 **2024** — Earth's Future;
 **2023** — Agricultural and Food Economics; Ecological Economics; Cogent Economics and Finance; Cogent Social Sciences
 
-Increasingly, I consider declining peer-reviewing for commercial publishers. 
+Increasingly, I consider declining peer-reviewing for commercial publishers. Instead, I am now a recommender for [Peer Community In](https://peercommunityin.org/) economics.  
 
 {% include nav-dedupe.html %}
 {% include scroll-nav.html %}
