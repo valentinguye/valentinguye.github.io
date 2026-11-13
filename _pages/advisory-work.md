@@ -13,9 +13,8 @@ I am happy to consider new advisory activities; do not hesitate to reach out.
 [Chocolate Scorecard](https://www.chocolatescorecard.com/), Traceability & Transparency scoring, 2026, 2024, 2023
 
 ### Inputs to press & NGOs
-I have shared quantitative and qualitative insights with the following organisations: 
-
-[AidEnvironment](https://aidenvironment.org/wp-content/uploads/2025/12/Compliance-Checker_Mondelez_Profile_By-AidEnvironment.pdf), [Bloomberg](https://www.bloomberg.com/news/features/2024-02-27/...), Mongabay, Nitidae, [NRC.nl](https://www.nrc.nl/nieuws/2025/09/19/...), Republik Magazin, RTBF
+I have shared quantitative and qualitative insights with:
+[AidEnvironment](https://aidenvironment.org/wp-content/uploads/2025/12/Compliance-Checker_Mondelez_Profile_By-AidEnvironment.pdf), [Bloomberg](https://www.bloomberg.com/news/features/2024-02-27/...), Mongabay, Nitidae, [NRC.nl](https://www.nrc.nl/nieuws/2025/09/19/...), Republik Magazin, RTBF, The Jakarta Post
 
 
 ### Supervision
@@ -27,9 +26,9 @@ I have shared quantitative and qualitative insights with the following organisat
 
 ### Peer review
 
-**2026** — World Development; Environmental and Resource Economics; PNAS; IPBES Business and Biodiversity Assessment (SPM);
-**2025** — Environmental and Resource Economics;
-**2024** — Earth's Future;
+**2026** — World Development; Environmental and Resource Economics; PNAS; IPBES Business and Biodiversity Assessment (SPM) | 
+**2025** — Environmental and Resource Economics | 
+**2024** — Earth's Future | 
 **2023** — Agricultural and Food Economics; Ecological Economics; Cogent Economics and Finance; Cogent Social Sciences
 
 Increasingly, I consider declining peer-reviewing for commercial publishers. Instead, I am now a recommender for [Peer Community In](https://peercommunityin.org/) economics.  
